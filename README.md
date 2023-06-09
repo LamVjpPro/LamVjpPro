@@ -67,10 +67,10 @@
   <a href="https://www.facebook.com/lamcutevjppro.2603" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="" target="blank">
+  <a href="/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="" target="blank">
+  <a href="/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://www.instagram.com/lamm_lt2603/" target="blank">
